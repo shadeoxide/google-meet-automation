@@ -1,0 +1,23 @@
+{
+  "name": "automate-google-meet",
+  "version": "1.0.0",
+  "description": "Let a bot join meetings for you",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-stealth": "^2.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "google-meet",
+    "automate"
+  ],
+  "author": "ShadeOxide",
+  "license": "MIT"
+}
